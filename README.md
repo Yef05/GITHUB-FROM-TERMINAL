@@ -13,3 +13,8 @@ Biotic | pollination syndromes
 ![Fig. 1. Northern Andes map](https://github.com/Yef05/GITHUB-FROM-TERMINAL/blob/main/Captura%20de%20pantalla%202025-03-28%20165311.png)
 
 [For more information on plant speciation events in the Andes, click here.](https://doi.org/10.1073/pnas.0811421106)
+
+## Code for upload
+git add README.md
+git commit -m "Updated Readme"
+git push origin main
