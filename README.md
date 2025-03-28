@@ -15,6 +15,6 @@ Biotic | pollination syndromes
 [For more information on plant speciation events in the Andes, click here.](https://doi.org/10.1073/pnas.0811421106)
 
 ## Code for upload
-git add README.md
-git commit -m "Updated Readme"
-git push origin main
+* ```git add README.md```
+* ```git commit -m "Updated Readme```
+* ```git push origin main -f```
